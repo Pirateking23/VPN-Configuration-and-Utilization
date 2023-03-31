@@ -1,1 +1,1 @@
-# VPN-Configuration-and-Utilization
+# VPN Configuration and Utilization
